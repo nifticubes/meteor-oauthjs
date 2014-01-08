@@ -1,0 +1,3 @@
+[submodule "oauthjs"]
+        path = oauthjs
+        url = git@github.com:oauth-io/oauth-js.git

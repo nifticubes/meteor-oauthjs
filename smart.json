@@ -1,0 +1,8 @@
+{
+  "name": "oauth.js",
+  "description": "Serverless OAuth",
+  "homepage": "https://github.com/nifticubes/oauthjs-meteor",
+  "author": "Eddie Kollar",
+  "version": "0.0.1",
+  "git": "https://github.com/nifticubes/oauthjs-meteor.git"
+}
