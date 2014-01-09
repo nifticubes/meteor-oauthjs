@@ -2,7 +2,7 @@
   "name": "oauthjs",
   "description": "Meteor package for OAuth.io, the serverless OAuth",
   "homepage": "https://github.com/nifticubes/meteor-oauthjs",
-  "author": "Eddie Kollar",
+  "author": "Eddie Kollar <eddie.kollar@gmail.com>",
   "version": "0.0.1",
   "git": "https://github.com/nifticubes/meteor-oauthjs.git"
 }
