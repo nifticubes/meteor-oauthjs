@@ -4,5 +4,4 @@ Package.describe({
 
 Package.on_use(function (api) {
   api.add_files('oauthjs/oauth.js', 'client');
-  api.export('OAuth', 'client');
 });
